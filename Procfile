@@ -1,1 +1,1 @@
-web: python setup.py && python glastopf/glastopf.py
+web: python setup.py && python bin/glastopf-runner.py
