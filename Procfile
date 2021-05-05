@@ -1,1 +1,1 @@
-web: python setup.py && python bin/glastopf-runner.py
+web: python bin/glastopf-runner.py
