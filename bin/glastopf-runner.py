@@ -8,7 +8,7 @@ import logging.handlers
 import argparse
 import random
 
-from gevent.wsgi import WSGIServer
+from gevent.pywsgi import WSGIServer
 import gevent
 from OpenSSL import crypto
 
